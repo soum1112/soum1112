@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey, I'm Soumya Varshney 👋
 
 CS undergrad @ Symbiosis Institute of Technolgy, Pune | Going into 3rd year
