@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**soum1112/soum1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Soumya Varshney 👋
 
-Here are some ideas to get you started:
+CS undergrad @ Symbiosis Institute of Technolgy, Pune | Going into 3rd year
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- 🏎️ F1 Race Analytics — SQL, Python, Pandas, Power BI
+- 🌫️ Air Quality Monitor — ESP32, MQ-135, PM2.5 sensors
+- 🚨 Safety Management System — Java, MySQL
+
+## Currently learning
+Python · Pandas · SQL · Machine Learning · DSA
+
+## Open to
+Internships in Data Science / Analytics / ML
